@@ -1,0 +1,2 @@
+const kitty = require('./cat');
+console.log(kitty.name);

@@ -27,4 +27,4 @@ Git 브랜치와 커밋, 파일 변경 흐름을 연습하기 위해 사용한 �
 
 ---
 
-**함께 보기** · [JSTest](https://github.com/nakk3975/JSTest)
+**함께 보기** · [gitVSC](https://github.com/nakk3975/gitVSC)

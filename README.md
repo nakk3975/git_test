@@ -1,5 +1,7 @@
 # git_test
 
+[개발자 소개 · 전체 프로젝트](https://github.com/nakk3975/TripPlan/blob/main/PORTFOLIO.md)
+
 > Git 실습 · 파일 변경·브랜치
 
 Git 브랜치와 커밋, 파일 변경 흐름을 연습하기 위해 사용한 테스트 저장소입니다.
